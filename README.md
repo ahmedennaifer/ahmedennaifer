@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Ahmed 
-
-🇵🇸🇵🇸🇵🇸  
+# 🇵🇸🇵🇸🇵🇸
 I'm a **Data Engineer** at **opsci.ai**, and a master's student at **ESGI Paris**, studying the intersection of **Big Data** and **Artificial Intelligence**!
 
 ## 📚 My Coursework Includes:
@@ -46,6 +45,17 @@ I'm a **Data Engineer** at **opsci.ai**, and a master's student at **ESGI Paris*
 - **Editors and Tools**: Vim (btw), Helix, Ruff, Pyright, Wezterm.
 
 ## 🌍 Languages:
-I speak **Arabic**, **English**, and **French** fluently.
+I speak **Arabic**, **English**, and **French** fluently.  
 
-🇵🇸🇵🇸🇵🇸
+
+
+
+
+
+      
+
+
+
+
+**I’m always open to new projects and collaborations. Feel free to reach out 🤗 !**
+# 🇵🇸🇵🇸🇵🇸
