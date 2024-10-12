@@ -15,7 +15,7 @@ I'm a **Data Engineer** at **opsci.ai**, and a master's student at **ESGI Paris*
 ## 🔍 Interests
 - **Data Engineering and High Performance/Low Latency Data Pipelines**.
 - **Robotics and Autonomous Vehicles**.
-- **Generative AI** **Agentic AI**, and **RAG Systems** 😃.
+- **Generative and AI** and **RAG Systems** 😃.
 
 ## 🌱 Currently Learning:
 - **Go**, **Kafka**, **Docker**, and **GCP**.
