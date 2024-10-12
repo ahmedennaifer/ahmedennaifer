@@ -34,7 +34,7 @@ I'm a **Data Engineer** at **opsci.ai**, and a master's student at **ESGI Paris*
 - **Cloud Services**: 
     - AWS: Glue, Athena, EC2, Bedrock, Redshift, DynamoDB.
     - GCP: Pub/Sub, Cloud Run, App Engine.
-- **Streaming**: Scala and PySpark (Core + Streaming), Kafka.
+- **Streaming**: Scala Spark and PySpark (Core + Streaming), Kafka.
 - **Orchestration**: Airflow.
 - **ML/DL/RL**: Tensorflow, Keras, Gym.
 - **Generative AI**: Transformers, Llama-cpp, vLLM, Groq, Ollama, Haystack, Llama-index, Autogen.
