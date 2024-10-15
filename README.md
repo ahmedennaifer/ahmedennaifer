@@ -29,7 +29,7 @@ I'm a **Data Engineer** at **opsci.ai**, and a master's student at **ESGI Paris*
 ## 🛠️ Skills:
 - **Backend**: FastAPI, Django, SQLAlchemy, Alembic, Pydantic.
 - **Databases**: MongoDB, DynamoDB, Redshift, PostgreSQL.
-- **DevOps**: Docker.
+- **DevOps**: Docker, docker-compose, Terraform.
 - **Vector Databases**: Chroma, Weaviate, Qdrant.
 - **Cloud Services**: 
     - AWS: Glue, Athena, EC2, Bedrock, Redshift, DynamoDB.
