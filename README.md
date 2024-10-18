@@ -14,7 +14,7 @@ I'm a **Data Engineer** at **opsci.ai**, and a master's student at **ESGI Paris*
 
 ## 🔍 Interests
 - **Data Engineering and High Performance/Low Latency Data Pipelines**.
-- **Robotics and Autonomous Vehicles**.
+- **Robotics and Autonomous Systems**.
 - **Generative and Agentic AI** and **RAG Systems** 😃.
 
 ## 🌱 Currently Learning:
@@ -24,25 +24,25 @@ I'm a **Data Engineer** at **opsci.ai**, and a master's student at **ESGI Paris*
 - Building and optimizing **RAG and Conversational systems**.
 - **Backend and API development** with FastAPI.
 - Creating and maintaining on prem and cloud **ETL pipelines**.
-- **Webscraping** social media and other sources.
+- **Webscraping** social media, websites and other sources.
 
 ## 🛠️ Skills:
 - **Backend**: FastAPI, Django, SQLAlchemy, Alembic, Pydantic.
 - **Databases**: MongoDB, DynamoDB, Redshift, PostgreSQL.
-- **DevOps**: Docker, docker-compose, Terraform.
-- **Vector Databases**: Chroma, Weaviate, Qdrant.
+- **DevOps**: Bash, Docker, docker-compose, Terraform, Azure Devops.
 - **Cloud Services**: 
     - AWS: Glue, Athena, EC2, Bedrock, Redshift, DynamoDB.
     - GCP: Pub/Sub, Cloud Run, App Engine.
 - **Streaming**: Scala Spark and PySpark (Core + Streaming), Kafka.
 - **Orchestration**: Airflow.
 - **ML/DL/RL**: Tensorflow, Keras, Gym.
-- **Generative AI**: Transformers, Llama-cpp, vLLM, Groq, Ollama, Haystack, Llama-index, Autogen.
+- **Generative AI**: Transformers, Hugging-face, Llama-cpp, vLLM, Groq, Ollama, Haystack-ai, Llama-index, Autogen.
     - (Also **LangChain**, but I hate it with a passion! 😅)
+- **Vector Databases**: Chroma, Weaviate, Qdrant.
 - **Web Scraping**: Playwright, Selenium, Scrapy, BeautifulSoup.
 - **ML-Adjacent/ Robotics**: Pandas, Numpy, OpenCV, ROS2, Gazebo.
-- **Programming Languages**: Python, Go, Scala, Java, and a bit of JavaScript.
-- **Editors and Tools**: Vim (btw), Helix, Ruff, Pyright, Wezterm.
+- **Programming Languages**: Python, Go, Scala, Java, Bash, and a bit of JavaScript.
+- **Editors and Tools**: (Neo)Vim (btw), Helix, Ruff, Pyright, Wezterm.
 
 ## 🌍 Languages:
 I speak **Arabic**, **English**, and **French** fluently.  
