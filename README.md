@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ahmed 
 # 🇵🇸🇵🇸🇵🇸
-I'm a **Data Engineer** at **opsci.ai**, and a master's student at **ESGI Paris**, studying the intersection of **Big Data** and **Artificial Intelligence**!
+I'm a master's student at **ESGI Paris**, studying the intersection of **Big Data** and **Artificial Intelligence**!
 
 ## 📚 My Coursework Includes:
 - **Reinforcement Learning**.
