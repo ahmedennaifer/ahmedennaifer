@@ -1,61 +1,85 @@
-# 👋 Hi, I’m Ahmed 
-# 🇵🇸🇵🇸🇵🇸
-I'm a master's student at **ESGI Paris**, studying the intersection of **Big Data** and **Artificial Intelligence**!
+# 🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸
 
-## 📚 My Coursework Includes:
-- **Reinforcement Learning**.
-- **Deep Learning**.
-- **Natural Language Processing (NLP)**.
-- **Statistical Methods**.
-- **DevOps** (IaC, Docker, K8s).
-- **Spark Core and Spark Streaming** (Scala and Python).
-- **Cloud Services** (AWS).
-- **Project Management**.
+## 👋 Hi, I'm Ahmed 🇵🇸
 
-## 🔍 Interests
-- **Data Engineering and High Performance/Low Latency Data Pipelines**.
-- **Robotics and Autonomous Systems**.
-- **Generative and Agentic AI** and **RAG Systems** 😃.
+Master's student at ESGI Paris specializing in Big Data and AI. Fluent in Arabic, English, and French, I focus on robust backend and data systems and generative AI worfklow. Experienced in building RAG systems, backend development, ETL pipelines, and web scraping. Currently expanding my skills in Devops.
 
-## 🌱 Currently Learning:
-- **Go**, **Kafka**, **Docker**, and **GCP**.
+## 🛠️ Tech Stack
 
-## 🔬 Experience:
-- Building and optimizing **RAG and Conversational systems**.
-- **Backend and API development** with FastAPI.
-- Creating and maintaining on prem and cloud **ETL pipelines**.
-- **Webscraping** social media, websites and other sources.
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 🛠️ Skills:
-- **Backend**: FastAPI, Django, SQLAlchemy, Alembic, Pydantic.
-- **Databases**: MongoDB, DynamoDB, Redshift, PostgreSQL.
-- **DevOps**: Bash, Docker, docker-compose, Terraform, Azure Devops.
-- **Cloud Services**: 
-    - AWS: Glue, Athena, EC2, Bedrock, Redshift, DynamoDB.
-    - GCP: Pub/Sub, Cloud Run, App Engine.
-- **Streaming**: Scala Spark and PySpark (Core + Streaming), Kafka.
-- **Orchestration**: Airflow.
-- **ML/DL/RL**: Tensorflow, Keras, Gym.
-- **Generative AI**: Transformers, Hugging-face, Llama-cpp, vLLM, Groq, Ollama, Haystack-ai, Llama-index, Autogen.
-    - (Also **LangChain**, but I hate it with a passion! 😅)
-- **Vector Databases**: Chroma, Weaviate, Qdrant.
-- **Web Scraping**: Playwright, Selenium, Scrapy, BeautifulSoup.
-- **ML-Adjacent/ Robotics**: Pandas, Numpy, OpenCV, ROS2, Gazebo.
-- **Programming Languages**: Python, Go, Scala, Java, Bash, and a bit of JavaScript.
-- **Editors and Tools**: (Neo)Vim (btw), Helix, Ruff, Pyright, Wezterm.
-
-## 🌍 Languages:
-I speak **Arabic**, **English**, and **French** fluently.  
+### 🔄 Backend & Protocols
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
 
+![HTTP](https://img.shields.io/badge/-HTTP-FF6C37?style=flat-square&logo=http&logoColor=white)
+![TCP](https://img.shields.io/badge/-TCP-007396?style=flat-square&logo=tcp&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
+![MQTT](https://img.shields.io/badge/-MQTT-3C5280?style=flat-square&logo=mqtt&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 📊 Data Processing
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### 🤖 ML & AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Haystack-AI](https://img.shields.io/badge/-Haystack_AI-2D7FEE?style=flat-square&logo=haystack&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square&logo=langchain&logoColor=white)
+![Llama-index](https://img.shields.io/badge/-LlamaIndex-4EAA25?style=flat-square&logo=llamaindex&logoColor=white)
+![MCPs](https://img.shields.io/badge/-MCPs-2C3E50?style=flat-square&logo=mcp&logoColor=white)
+### 🧠 Vector Databases
+![Qdrant](https://img.shields.io/badge/-Qdrant-5541D7?style=flat-square&logo=qdrant&logoColor=white)
+![Weaviate](https://img.shields.io/badge/-Weaviate-3A93FF?style=flat-square&logo=weaviate&logoColor=white)
+![Chroma](https://img.shields.io/badge/-Chroma-464646?style=flat-square&logo=chroma&logoColor=white)
+
+### 🔍 Web Scraping
+![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🧪 Misc:
+![Testing](https://img.shields.io/badge/-Testing-4B32C3?style=flat-square&logo=testing-library&logoColor=white)
+![PEP8](https://img.shields.io/badge/-PEP8-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruff](https://img.shields.io/badge/-Ruff-FE7A16?style=flat-square&logo=ruff&logoColor=white)
+![Pyright](https://img.shields.io/badge/-Pyright-4584b6?style=flat-square&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Linting](https://img.shields.io/badge/-Linting-FF4B4B?style=flat-square&logo=eslint&logoColor=white)
+![Formatting](https://img.shields.io/badge/-Formatting-000000?style=flat-square&logo=prettier&logoColor=white)
+
+### 📝 Editors
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 
+**I'm always open to new projects and collaborations. Feel free to reach out! 🤗**
 
 
-      
-
-
-
-
-**I’m always open to new projects and collaborations. Feel free to reach out 🤗 !**
-# 🇵🇸🇵🇸🇵🇸
+# 🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸
