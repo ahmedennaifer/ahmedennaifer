@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Ahmed 🇵🇸
 
-Master's student at ESGI Paris specializing in Big Data and AI. Fluent in Arabic, English, and French, I focus on robust backend and data systems and generative AI worfklow. Experienced in building RAG systems, backend development, ETL pipelines, and web scraping. Currently expanding my skills in Devops.
+Master's student at ESGI Paris specializing in Big Data and AI. Fluent in Arabic, English, and French, I focus on robust backend and data systems and generative AI worfklows. Experienced in building RAG systems, backend development, ETL pipelines, and web scraping. Currently expanding my skills in Devops.
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +20,6 @@ Master's student at ESGI Paris specializing in Big Data and AI. Fluent in Arabic
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
 
 ![HTTP](https://img.shields.io/badge/-HTTP-FF6C37?style=flat-square&logo=http&logoColor=white)
 ![TCP](https://img.shields.io/badge/-TCP-007396?style=flat-square&logo=tcp&logoColor=white)
@@ -43,10 +42,39 @@ Master's student at ESGI Paris specializing in Big Data and AI. Fluent in Arabic
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+#### AWS
+  ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+  ![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+  ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+  ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+  ![Fargate](https://img.shields.io/badge/-Fargate-FF9900?style=flat-square&logo=aws-fargate&logoColor=white)
+  ![Athena](https://img.shields.io/badge/-Athena-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Bedrock](https://img.shields.io/badge/-Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+#### Azure
+![Blob Storage](https://img.shields.io/badge/-Blob_Storage-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Azure VM](https://img.shields.io/badge/-Azure_VM-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Web App](https://img.shields.io/badge/-Azure_Web_App-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![App Insights](https://img.shields.io/badge/-App_Insights-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Key Vault](https://img.shields.io/badge/-Key_Vault-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/-Azure_SQL-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+#### DevOps Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+
+
+### 📈 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/-Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
 ### 🤖 ML & AI
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -56,6 +84,7 @@ Master's student at ESGI Paris specializing in Big Data and AI. Fluent in Arabic
 ![LangChain](https://img.shields.io/badge/-LangChain-3178C6?style=flat-square&logo=langchain&logoColor=white)
 ![Llama-index](https://img.shields.io/badge/-LlamaIndex-4EAA25?style=flat-square&logo=llamaindex&logoColor=white)
 ![MCPs](https://img.shields.io/badge/-MCPs-2C3E50?style=flat-square&logo=mcp&logoColor=white)
+
 ### 🧠 Vector Databases
 ![Qdrant](https://img.shields.io/badge/-Qdrant-5541D7?style=flat-square&logo=qdrant&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/-Weaviate-3A93FF?style=flat-square&logo=weaviate&logoColor=white)
@@ -77,9 +106,5 @@ Master's student at ESGI Paris specializing in Big Data and AI. Fluent in Arabic
 
 ### 📝 Editors
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-
-
-**I'm always open to new projects and collaborations. Feel free to reach out! 🤗**
-
 
 # 🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸🇵🇸
